@@ -1,0 +1,29 @@
+.main-container {
+  text-align: center;
+  height: max-content;
+  display: flex;
+  flex-direction: column;
+}
+
+.orange-background{
+  background-color: #FD853A;
+  
+}
+
+.orange-text{
+  color:#FD853A;
+  
+}
+
+.font-12px{
+  font-size: 1rem;
+}
+
+.cursor-pointer{
+  cursor: pointer;
+
+}
+
+.background-footer{
+  background-color: #272727;
+}
